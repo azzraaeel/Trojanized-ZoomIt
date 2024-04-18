@@ -32,3 +32,6 @@ Then added an instruction where it’ll go back to the main program so it’ll b
 
 I also removed the exit instruction and make it jump on POPFD address so the trojan will execute correctly.
 ![Untitled](img4.png)
+
+Screenshot
+![Untitled](img5.png)
