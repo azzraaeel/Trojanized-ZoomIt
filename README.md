@@ -32,12 +32,3 @@ Then added an instruction where it’ll go back to the main program so it’ll b
 
 I also removed the exit instruction and make it jump on POPFD address so the trojan will execute correctly.
 ![Untitled](img4.png)
-
-Screenshot
-![Untitled](img5.png)
-
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/57908592-c957-480d-89fc-eabd44c65a07/97adec40-af34-4410-9588-14006e83b632/Untitled.png)
-
-**Screenshot**
-
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/57908592-c957-480d-89fc-eabd44c65a07/61b10792-33b1-46e4-bb5d-4190b4efc5f3/Untitled.png)
