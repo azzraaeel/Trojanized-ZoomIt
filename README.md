@@ -22,7 +22,7 @@ Change entry point and jump to code cave that contains the shell code that we’
 
 Then added an instruction where it’ll go back to the main program so it’ll become a Trojan.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/57908592-c957-480d-89fc-eabd44c65a07/196e34b2-a3a3-4907-b17e-fd6777f995b0/Untitled.png)
+![Untitled](img3.png)
 
 `POPFD Address`
 
@@ -31,6 +31,10 @@ Then added an instruction where it’ll go back to the main program so it’ll b
 ```
 
 I also removed the exit instruction and make it jump on POPFD address so the trojan will execute correctly.
+![Untitled](img4.png)
+
+Screenshot
+![Untitled](img5.png)
 
 ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/57908592-c957-480d-89fc-eabd44c65a07/97adec40-af34-4410-9588-14006e83b632/Untitled.png)
 
