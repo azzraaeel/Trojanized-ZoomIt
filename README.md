@@ -14,11 +14,11 @@
 
 Change entry point and jump to code cave that contains the shell code that we’ll paste.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/57908592-c957-480d-89fc-eabd44c65a07/1d12204a-aa7c-460a-9be2-f3cc6d21c836/Untitled.png)
+![Untitled](img1.png)
 
 `Shell code`
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/57908592-c957-480d-89fc-eabd44c65a07/e09faf69-c6f6-41c9-be29-e65d45a68915/Untitled.png)
+![Untitled](img2.png)
 
 Then added an instruction where it’ll go back to the main program so it’ll become a Trojan.
 
